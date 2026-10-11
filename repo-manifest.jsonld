@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/triagers/commit/0cfed58bb601f67622bb2e041fc62937d96c7334",
       "git:hexsha": "0cfed58bb601f67622bb2e041fc62937d96c7334",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

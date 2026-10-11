@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/triagers/commit/0cfed58bb601f67622bb2e041fc62937d96c7334",
       "git:hexsha": "0cfed58bb601f67622bb2e041fc62937d96c7334",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:47:04.954015+00:00"
     }
   ]
 }

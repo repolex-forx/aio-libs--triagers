@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "triagers",
+  "versions": [
+    {
+      "commit": "0cfed58bb601f67622bb2e041fc62937d96c7334",
+      "parsed_at": "2026-10-11T08:45:05.600967+00:00",
+      "filetree": "filetree/0cfed58bb601f67622bb2e041fc62937d96c7334.nq.gz",
+      "blobs": [
+        "blob/894a44cc066a027465cd26d634948d56d13af9af.nq.gz",
+        "blob/5bf2a4e6c4cca222e611d00b765aba7d98671216.nq.gz",
+        "blob/0b2f7b0655f41276d418ca8302dbaec8b7e7e829.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

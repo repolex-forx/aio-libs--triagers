@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/aio-libs/triagers",
+  "@type": "gh:Repository",
+  "gh:name": "triagers",
+  "gh:owner": "aio-libs",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/aio-libs/triagers/commit/0cfed58bb601f67622bb2e041fc62937d96c7334",
+      "git:hexsha": "0cfed58bb601f67622bb2e041fc62937d96c7334",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
